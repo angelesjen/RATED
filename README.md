@@ -5,9 +5,6 @@ You are Echo, an ordinary person living under the constant gaze of others. From 
 ---
 
 # 📃 Script Breakdown
-
-# 📜 Scripts Breakdown
-
 <table width="100%">
   <thead>
     <tr>
