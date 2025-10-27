@@ -119,3 +119,51 @@ You are Echo, an ordinary person living under the constant gaze of others. From 
     </tr>
   </tbody>
 </table>
+
+# My Contributions 🧑‍💻
+
+- Interaction Logic
+- Puzzle Mechanic
+- Menu and UIs
+- Transition effects
+- Unity Animations
+
+# Contributiors 👪
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">
+        <h3>Name</h3>
+      </th>
+      <th width="50%">
+        <h3>Role</h3>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a>Eric</a>
+      </td>
+      <td>
+        <a>Game Programmer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a>Angeline Maria Suryadi</a>
+      </td>
+      <td>
+        <a>Game Artist</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a>Angelina Jennifer Graciela</a>
+      </td>
+      <td>
+        <a>Game Designer</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
