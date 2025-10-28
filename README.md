@@ -3,6 +3,17 @@ RATED is an Interactive Narrative game developed using Unity 2D.
 You are Echo, an ordinary person living under the constant gaze of others. From the moment you wake up to the time you return home, your choices are weighed: be authentic and risk rejection, or perform for approval and climb the star ladder.
 
 ---
+# 🎮 Gameplay
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/c3cdf9ed-9487-407b-9b3f-cda4d623262c" alt="1" style="width:100%;height:auto;">
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/3d671d65-42d4-4e07-b820-dcde2ea7c37f" alt="1" style="width:100%;height:auto;">
+    </td>
+  </tr>
+</table>
 
 # 📃 Script Breakdown
 <table width="100%">
