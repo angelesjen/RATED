@@ -154,10 +154,10 @@ You are Echo, an ordinary person living under the constant gaze of others. From 
   <tbody>
     <tr>
       <td>
-        <a>Eric</a>
+        <a>Angelina Jennifer Gracielac</a>
       </td>
       <td>
-        <a>Game Programmer</a>
+        <a>Game Designer</a>
       </td>
     </tr>
     <tr>
@@ -170,10 +170,10 @@ You are Echo, an ordinary person living under the constant gaze of others. From 
     </tr>
     <tr>
       <td>
-        <a>Angelina Jennifer Graciela</a>
+        <a>Eric</a>
       </td>
       <td>
-        <a>Game Designer</a>
+        <a>Game Programmer</a>
       </td>
     </tr>
   </tbody>
