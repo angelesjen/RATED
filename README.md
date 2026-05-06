@@ -131,15 +131,7 @@ You are Echo, an ordinary person living under the constant gaze of others. From 
   </tbody>
 </table>
 
-# My Contributions 🧑‍💻
-
-- Interaction Logic
-- Puzzle Mechanic
-- Menu and UIs
-- Transition effects
-- Unity Animations
-
-# Contributiors 👪
+# Contributors 👪
 <table width="100%">
   <thead>
     <tr>
@@ -154,7 +146,7 @@ You are Echo, an ordinary person living under the constant gaze of others. From 
   <tbody>
     <tr>
       <td>
-        <a>Angelina Jennifer Gracielac</a>
+        <a>Angelina Jennifer Graciela</a>
       </td>
       <td>
         <a>Game Designer</a>
